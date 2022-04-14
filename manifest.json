@@ -1,7 +1,7 @@
 {
     "name": "Epikia",
     "short_name": "Epikia",
-    "start_url": "/?home=true",
+    "start_url": "",
     "icons": [
         {
             "src": "icons/manifest-icon-192.maskable.png",
